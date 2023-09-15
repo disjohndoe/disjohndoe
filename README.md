@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 👨‍💻 All of my projects are available at [(work in progress)]((work in progress))
+- 👨‍💻 All of my projects are available at (work in progress)
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, Wordpress Elementor**
 
