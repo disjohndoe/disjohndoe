@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disjohndoe" alt="disjohndoe" /></a> </p>
 
-- 🔭 I’m currently working on [movie website](https://courageous-druid-16e9ed.netlify.app/)
+- 🔭 I’m currently working on [the movie website](https://courageous-druid-16e9ed.netlify.app/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NextJs**
 
