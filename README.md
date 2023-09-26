@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hrvoje Matošević</h1>
-<h3 align="center">A passionate backend developer from Croatia, working on full stack</h3>
-
+<h3 align="center">A passionate backend developer from Croatia, working on full stack developer role</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=disjohndoe&label=Profile%20views&color=0e75b6&style=flat" alt="disjohndoe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disjohndoe" alt="disjohndoe" /></a> </p>
 
 - 🔭 I’m currently working on [the movie website](https://courageous-druid-16e9ed.netlify.app/)
 
