@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Croatia, working on full stack developer role</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=disjohndoe&label=Profile%20views&color=0e75b6&style=flat" alt="disjohndoe" /> </p>
 
-- 🔭 I’m currently working on [the movie website](https://courageous-druid-16e9ed.netlify.app/)
+- 🔭 I’m currently working on a client's portfolio website (undisclosed)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NextJs**
 
