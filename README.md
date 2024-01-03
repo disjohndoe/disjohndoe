@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a client's portfolio website (undisclosed)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, NextJs**
+- 🌱 I’m currently learning **JavaScript, React, NextJs**
 
 - 👯 I’m looking to collaborate on **open source project**
 
