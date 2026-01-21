@@ -4,17 +4,9 @@
 
 - 🔭 I’m currently working on a client's portfolio website (undisclosed)
 
-- 🌱 I’m currently learning **JavaScript, React, NextJs**
-
-- 👯 I’m looking to collaborate on **open source project**
-
-- 👨‍💻 All of my projects are available at [My portfolio website](https://matt-the-dev.netlify.app/)
-
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, Wordpress Elementor**
-
 - 📫 How to reach me **hrvoje.matos@gmail.com**
 
-- ⚡ Fun fact **I think I know coding**
+- ⚡ Fun fact **My favorite food is pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
