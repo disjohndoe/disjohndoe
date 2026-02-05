@@ -6,7 +6,7 @@
 
 <h3 align="center">HM Digital - Custom Software Development Solutions</h3>
 
-<p align="center">  
+<p align="center">
   Building modern web applications, APIs, and digital solutions for businesses with <3 from Croatia
 </p>
 
@@ -14,7 +14,7 @@
 - 🚀 We build custom software solutions tailored to your business needs
 - 🌍 Based in Croatia, serving clients worldwide
 - 📫 Reach us: **hrvoje@hmdigital.hr**
-- 💼 Services: Web development, APIs, automation, digital transformation
+- 💼 Services: Web development, APIs, automation, digital transformation, non-destructive document digitalization
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
@@ -22,16 +22,22 @@
 <a href="mailto:hrvoje@hmdigital.hr" target="blank">
   <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" />
 </a>
+<a href="https://hmdigital.hr/kontakt" target="blank">
+  <img align="center" src="https://hmdigital.hr/logo.svg" alt="Contact" height="30" width="40" />
+</a>
 </p>
 
 ---
 
 <h3 align="left">What We Do:</h3>
 
-- **Web Development** - Modern, responsive websites and web applications
-- **API Development** - RESTful APIs and backend services
-- **Automation** - Streamline your business processes
-- **Consulting** - Digital transformation and technical guidance
+- **Backend & API Development** - RESTful and GraphQL APIs, microservices, database design
+- **SaaS Development** - From product design and MVP to scaling and maintenance
+- **Web Development** - E-commerce, ERP systems, Fiskalizacija 2.0, e-invoicing
+- **Automation & Integrations** - API integrations, process automation, real-time sync, custom bots
+- **Document Digitalization** - Non-destructive scanning, OCR, organization, ERP/DMS integration
+- **Analytics** - GA4, Google Tag Manager, Meta Pixel, e-commerce tracking
+- **Consulting** - Architecture design, optimization, digital transformation
 
 ---
 
@@ -52,12 +58,6 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://astro.build" target="_blank" rel="noreferrer">
-    <img src="https://astro.build/assets/press/logo-dark-full.svg" alt="astro" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
